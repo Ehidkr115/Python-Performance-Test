@@ -24,6 +24,22 @@ This is a command-line-based Bookstore Management System written in Python. It a
 
 -Console or terminal to run interactive scripts
 
+## Interactive menu
+
+**To be able to interact with the rest of the menu options you must first add 1 or more books**
+
+-1. Register Book
+-2. Consult Book
+-3. Update Stock
+-4. Delete Book
+-5. View Full Library
+-6. Register Sale
+-7. View Sales
+-8. Top  Best-Selling Books
+-9. Sales Report by Author
+-10. Calculate Gross and Net Income
+-11. Exit
+
 ## Notes
 
 - Book IDs must be positive integers.
