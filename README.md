@@ -20,7 +20,7 @@ This is a command-line-based Bookstore Management System written in Python. It a
 
 -Visual Studio Code
 
-- Python 3.6 or higher
+-Python 3.6 or higher
 
 -Console or terminal to run interactive scripts
 
